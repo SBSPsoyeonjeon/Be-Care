@@ -10,5 +10,5 @@ API23(android marshmallow 6.0)
 galaxy note 4 and 5
 
 [Sensor]
-PIR sensor for motion detecting, servo motor for doorlock.
+PIR sensor for motion detecting, servo motor for doorlock.</t>
 flame sensor : mcp3008 ADC.
